@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://blog.cloudreach.fr</link>
+    <atom:link href="http://blog.cloudreach.fr/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Wed, 04 Feb 2015 23:14:42 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Feb 2015 23:14:42 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>THE MEDIA INDUSTRY</title>
+      <link>http://blog.cloudreach.fr/2015/01/29/media-industry-technology-trends-challenges-insights-2015/</link>
+      <pubDate>Thu, 29 Jan 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://blog.cloudreach.fr/2015/01/29/media-industry-technology-trends-challenges-insights-2015</guid>
+      <description>&lt;p&gt;Il n’y a absolument aucune utilité à nier la pression que le secteur des médias a été sous au cours des dernières années.&lt;/p&gt;
+
+&lt;p&gt;Comme une société d’informatique à la pointe des nouvelles technologies de cloud computing, nous savons plus que la plupart de l’impact de la domination tentaculaire de l’Internet a eu sur les entreprises traditionnelles dans tous les secteurs, et en particulier les entreprises de médias en concurrence directe avec les nouvelles start-up basées sur le cloud. Pour explorer les défis de l’industrie de manière plus approfondie, nous avons récemment organisé une table ronde avec quelques-uns des noms les plus influents dans les médias, le cloud computing et l’informatique - Mark Brincat, chef de l’Architecture et de l’analyse au Telegraph Media Group, Bob Harris, fondateur de Ethereality Associates et ancien CTO de Channel 4, et Tom Ray, chef de Cloudreach US. La séance a été incroyablement productif, et nous avons résumé les plats à emporter clés pour vous ici. Si vous avez envie d’aller plus en profondeur, faire vérifier l’enregistrement webinaire intégré au bas de ce post.
+Les consommateurs ont changé le modèle. Tant les industries de la radiodiffusion et de l’édition ont ressenti l’impact direct d’un concept très simple: la prolifération de nouveaux appareils. Chaque entreprise a été tributaire d’un modèle très singulier pour la plupart de son histoire: dans le cas de la radiodiffusion, la diffusion en direct d’émissions de télévision prévue était la norme, et pour la publication de la sortie était toujours sous la forme d’un journal imprimé quotidienne. Les modèles de distribution sont également compatibles, que ce soit sous la forme de toujours sur-analogique stations de télévision ou dans les journaux physiques largement distribués. Chacun de ces modèles reste populaire et pertinent, mais l’émergence des appareils mobiles a apporté avec elle un changement dans le comportement des consommateurs. Plutôt que d’être des récepteurs passifs d’un format de support pré-désigné, ils sont venus à attendre contenu disponible sur demande à travers une variété de plates-formes fragmentées et par le biais de nouveaux canaux tels que les médias sociaux. Marques des médias sont donc sous une énorme pression pour répondre, rendre le contenu plus accessible et plus pertinent à leurs publics cibles.
+Un nouvel état d’esprit est nécessaire. Tout comme les mentalités des consommateurs ont changé, les sociétés de médias doivent changer toute leur façon de penser à propos de leur entreprise. Avec la longue histoire que des marques comme le Telegraph et Channel 4 ont, il ya une quantité inévitable de bagages qui viennent avec ce que - les vieilles technologies et procédés anciens sont difficiles à rompre. Concurrents frais, avec leur mentalité démarrage, ne ont rien de ce bagage à traiter, et peuvent donc innover rapidement et dépasser leurs rivaux. Par exemple, Hulu a développé un service de livraison de vidéo en ligne maturité bien avant radiodiffuseurs plus traditionnelles gérées de la même, et a été en mesure de récupérer une grande notoriété aux États-Unis. De même, dans le cas de nouvelles, The Huffington Post a augmenté rapidement en popularité depuis son lancement en 2005, offrant une couverture en direct des nouvelles de dernière heure d’une manière un quotidien ne pouvait espérer rivaliser avec. IT ne est pas, cependant, un simple cas de l’émulation qui est nécessaire ici - toutes les organisations des médias doivent revoir leurs approches profondes pour les entreprises et l’innovation, en particulier, afin de demeurer pertinent.
+Le nuage peut aider. Une chose qui unit ces maigres, agiles nouveaux concurrents est une utilisation tout aussi prodigieuse de nouvelles technologies. Un service à la demande nuage, comme Amazon Web Services (AWS) permet une approche très sensible à l’informatique. Streaming d’une manifestation sportive de grande envergure comme la Coupe du Monde 2014 à un public de centaines de milliers est un dur demandent même le serveur plus robuste sur prem, alors avec AWS vous pouvez automatiquement à l’échelle vos instances pour correspondre à la demande et les étendre à nouveau dès que la demande diminue. Channel 4 a appris cela, et appris tôt, car ce était un des premiers à adopter le nuage AWS et dirige maintenant son service très populaire 4OD de streaming à partir des centres de données d’Amazon. Tout simplement parce que une organisation de nouvelles ne peut pas avoir le stress de fournir le streaming vidéo comme un service primaire, il peut encore bénéficier de la suite de ses concurrents dans le nuage. Le format d’un journal reste populaire, mais un nombre croissant de lecteurs souhaitent consommer le format par leurs propres dispositifs. Le Telegraph a réagi en offrant un service d’abonnement en ligne, en contournant les complications de l’impression traditionnelle en organisant un journal numérique dans le nuage qui peut être consulté par les abonnés partout dans le monde. AWS a donc permis le Telegraph de répondre à ses concurrents en ligne, mais aussi ouvert de nouveaux marchés et sources de revenus.
+Legacy est pas toujours une mauvaise chose. Oui, le poids des années de procédure interne et traditionnelle IT peut étouffer la croissance et l’innovation, mais avec une longue tradition vient une richesse de contenu qui peut être exploitée par le biais de nouvelles plateformes. Prenons l’exemple de Channel 4: la société a lancé en 1982 et a donc plus de trente ans d’un contenu de qualité dans ses archives. En accueillant ce contenu sur AWS et le servir à travers la plate-forme de 4OD, Channel 4 a été en mesure de monétiser son investissement passé d’une manière que les canaux de diffusion traditionnels ne pourraient jamais permettre. Une situation similaire peut être vu au Telegraph, en particulier dans le cas de son journalisme artistique de qualité. En faisant dernières cinéma et de musique avis accessibles au public une fois de plus, il peut générer du trafic vers son site avec un contenu qui aurait été une proposition d’une utilisation dans le passé. Ce est cette sorte d’héritage qui peut différencier les organisations des médias de jeunes startups, et lorsqu’il est combiné avec la puissance du nuage peut leur donner un avantage réel dans un marché toujours plus concurrentiel.
+Changer ne va pas disparaître. Il ya une tentation de tirer une opposition binaire entre «anciens» et les «nouveaux», entre le «traditionnel» et «moderne», mais la «nouvelle» ne peut obtenir plus récente. Cela signifie que la fragmentation des dispositifs continuera au même rythme, avec l’émergence de catégories entièrement nouvelles comme le smartwatch, ou au moins la maturation de ces marchés. La demande de contenu à travers ces nouveaux appareils est inévitable, comme le sont les complications qui viennent avec ce - comment vous protéger votre contenu contre le vol de droits d’auteur ne lorsque vous utilisez les services de livraison multiples? Autres changements qui devaient peuvent ne pas se produire pendant un certain temps. Le glas de contenu ad-supported a été déclenchée il ya des anifie que la fragmentation des prédisent que les services payés seraient bientôt être le seul moyen fiable de garantir un revenu dans un marché inondé de contenu gratuit. Le modèle d’abonnement est très vivante (il suffit de regarder Netflix, qui se trouve également à utiliser AWS pour servir des millions d’abonnés), mais le passage d’un produit qui est perçu comme libre au point de consommation au contenu qui est directement payé est difficile à vendre. Il ya encore beaucoup de chances d’éviter une telle réaction en embrassant grandes données basés sur le cloud, en utilisant les donnéesnévitable, comme le sont les complications qui viennent aveclie - comment vous protéger votre contenu contre le vol de dro réalisation, mais pas toujours que vous pourriez attendre - à ultiple&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Ouverture</title>
+      <link>http://blog.cloudreach.fr/2015/01/28/ouverture/</link>
+      <pubDate>Wed, 28 Jan 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://blog.cloudreach.fr/2015/01/28/ouverture</guid>
+      <description>&lt;p&gt;Voilà, l’ouverture ! \o/&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+
+  </channel> 
+</rss>
