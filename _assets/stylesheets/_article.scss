@@ -4,17 +4,21 @@ article {
     font-size:18px;
 
     .container > header, .container > section, .container > footer {
-        margin:0 8em;
-        text-align:justify;
+        margin: 0 3.5em;
     }
 
     .social {
         height:40px;
         padding:10px 0;
-
+        
         > div {
             display:inline-block;
-            min-width:120px;
+            width: 100px;
+            
+            &.google { width: 85px; }
+            
+            // vertically align facebook like button with other sharing icons
+            .fb-like > span { vertical-align: baseline !important; }
         }
     }
 
@@ -46,7 +50,7 @@ article {
         margin:0;
         font-size:0.9em;
         max-height:48px;
-
+        
         p {
             margin:0;
             display:inline-block;
@@ -59,8 +63,8 @@ article {
             margin: 0 20px 0 0;
             display: inline-block;
             margin-top: -28px;
-        }
-
+        }       
+        
         .follow {
             margin:1em 0 0;
         }
@@ -74,28 +78,28 @@ article {
         font-weight:400;
         margin:0 0 1.5em;
     }
-
-
+    
+    
     ol, ul {
         font-weight: 600;
         margin: 1.5em 0;
         padding: 0;
         list-style-position: outside;
         padding-left: 1.5em;
-
+        
         li {
             font-weight:400;
             margin-bottom:0.5em;
         }
     }
-
+    
     blockquote {
         border:0;
-        font-size:24px;
-        margin:1.2em -4em 1.2em 0;
+        margin: 1.5em -3em 1.5em 0;
         padding:0;
 
         p {
+            margin: 0;
             font-size:30px;
             line-height:1.1;
             color:$accent;
@@ -110,7 +114,7 @@ article {
     }
 
     h2 {
-        font-size:1.5em;
+        font-size:1.55em;
         margin:0.5em 0 1em;
         font-weight:600;
     }
@@ -126,7 +130,7 @@ article {
     }
 
     hr {
-        margin:3em 0;
+        margin:2em 0;
     }
 
     .meta {
@@ -173,48 +177,42 @@ article {
 
 
     .highlight {
-        border:0;
-
-        .lineno {
-            color:$textmuted;
-        }
-    }
-
-    pre {
-        border: 0;
-        padding: 1.5em 3em;
-        margin:0 -3em 1.5em;
-        background: whitesmoke;
-        border: 0;
-        border-radius: 2px;
-        border-bottom:1px solid #eee;
-        width:100%;
-        font-size:0.8em;
-        overflow-x: auto;
-        display:block;
-
-        code {
+        margin: 1.5em -3.5em;
+      
+        pre {
+            border: 0;
+            padding: 1.5em 1.5em;
+            background: whitesmoke;
+            border: 0;
+            border: 1px solid #e0e0e0;
+            width:100%;
             font-size:0.8em;
-            border:0;
+            overflow-x: auto;
+            display:block;
+        
+            code {
+                font-size:0.8em;
+                border:0;
+            }
         }
     }
-
+    
     code {
         border-bottom:1px solid #ddd;
         border-radius:2px;
         color:#222;
-    }
+    } 
 
     .rounded img {
         border-radius:6px;
     }
-
+    
     .border img {
         border:1px solid #ddd;
     }
 
     .full {
-        margin:1.5em -6em;
+        margin: 1.5em -3.5em;
         padding:0;
         text-align:center;
 
